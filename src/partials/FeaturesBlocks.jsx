@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How Simple works</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">Roadmap Management Expo 2023</h2>
+            <p className="text-xl text-gray-600">LFG</p>
           </div>
 
           {/* Items */}
@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initial Contact</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kompetisi Essay</h4>
+              <p className="text-gray-600 text-center">Kompetisi esai adalah kompetisi yang mengharuskan peserta untuk menulis esai tentang topik tertentu. Peserta harus menulis esai yang menarik dan informatif untuk memenangkan kompetisi. Tujuan dari kompetisi untuk mengajarkan peserta bagaimana menulis esai yang baik dan bagaimana berpikir secara kritis tentang topik tertentu.</p>
             </div>
 
             {/* 2nd item */}
@@ -49,8 +49,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Discovery Session</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kompetisi Cerdas Cermat</h4>
+              <p className="text-gray-600 text-center">Kompetisi cerdas cermat adalah sebuah kompetisi yang menguji kemampuan berpikir dan kecerdasan seseorang. </p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contracting</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kompetisi Videografi Budaya</h4>
+              <p className="text-gray-600 text-center">Kompetisi videografi budaya adalah kompetisi yang mengajak para peserta untuk menggunakan teknologi video untuk menangkap dan menyampaikan budaya lokal.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>              
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kompetisi Menari</h4>
+              <p className="text-gray-600 text-center">Kompetisi menari adalah kompetisi yang mengumpulkan para penari untuk bersaing dalam berbagai jenis tarian.</p>
             </div>
 
             {/* 5th item */}
@@ -96,8 +96,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Expo Kuliner Tradisional & Hiburan</h4>
+              <p className="text-gray-600 text-center">Expo kuliner dan hiburan adalah acara yang menampilkan berbagai makanan dan minuman dari berbagai daerah, serta berbagai jenis hiburan seperti musik, tarian, dan lainnya. </p>
             </div>
 
             {/* 6th item */}
@@ -113,8 +113,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kompetisi Melukis</h4>
+              <p className="text-gray-600 text-center">Kompetisi melukis adalah kompetisi yang mengajak para peserta untuk menggambar atau melukis sesuatu berdasarkan tema yang telah ditentukan.</p>
             </div>
 
           </div>
