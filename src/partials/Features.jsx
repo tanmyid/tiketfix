@@ -1,7 +1,9 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Transition from '../utils/Transition';
 
-import FeaturesBg from '../images/andi.jpg';
+import FeaturesBg from '../images/LogoExpo.png';
+import FeaturesBg1 from '../images/logomanajemen.png';
+
 import FeaturesElement from '../images/features-element.png';
 
 function Features() {
@@ -85,8 +87,30 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Tujuan dan Target Kegiatan ?</div>
-                    <div className="text-gray-600">A.	Untuk memberi inovasi baru dalam dunia bisnis yang semakin ketat persaingannya.
-                    B. Mampu menumbuhkan jiwa berwirausaha. C. Memberikan wawasan berwirausaha D. Sebagai sarana ajang promosi dan penjualan bagi pelaku bisnis E. Sebagai sarana untuk mengembangkan minat dan bakat para pelajar dan mahasiswa F. Mengenalkan dan meningkatkan minat terhadap budaya di Jepara G. Melestarikan dan mempromosikan kearifan lokal di Jepara.</div>
+                    <div className="text-gray-600">
+                    <p>
+                    A.	Untuk memberi inovasi baru dalam dunia bisnis yang semakin ketat persaingannya.
+                    </p>
+                    <p>
+                    B. Mampu menumbuhkan jiwa berwirausaha. 
+                    </p> 
+                    <p>
+                    C. Memberikan wawasan berwirausaha.
+                    </p>
+                    <p>
+                    D. Sebagai sarana ajang promosi dan penjualan bagi pelaku bisnis 
+                    </p>
+                    <p>
+                    E. Sebagai sarana untuk mengembangkan minat dan bakat para pelajar dan mahasiswa 
+                    </p>
+                    <p>
+                    F. Mengenalkan dan meningkatkan minat terhadap budaya di Jepara.
+                    </p>
+                    <p>
+                    G. Melestarikan dan mempromosikan kearifan lokal di Jepara.
+                    </p>
+                   
+                    </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -113,8 +137,12 @@ function Features() {
                   leaveEnd="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                    <img className="md:max-w-none mx-auto rounded" src={FeaturesBg} width="500" height="462" alt="Features bg" />
-                    <img className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} />
+                    <div className='mt-10'>
+                        <img className="md:max-w-none mx-auto rounded" src={FeaturesBg1} width="500" height="462" alt="Features bg" />
+                    </div>
+                      <img className="md:max-w-none mx-auto rounded" src={FeaturesBg} width="500" height="462" alt="Features bg" />
+   
+                    {/* <img className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} /> */}
                   </div>
                 </Transition>
                 {/* Item 2 */}
