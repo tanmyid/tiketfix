@@ -1,8 +1,8 @@
 import React from 'react';
-import Spongsor from '../images/andi.jpg'
-import Spongsor1 from '../images/tari.png'
+import Spongsor from '../images/andi.webp'
+import Spongsor1 from '../images/tari.webp'
 
-import TestimonialImage from '../images/andi.jpg';
+import TestimonialImage from '../images/andi.webp';
 
 function Testimonials() {
   return (
@@ -31,39 +31,17 @@ function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h2 className="h2 mb-4">Sponsor & Parnertship</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Terima kasih banyak kepada Sponsor & Partnership yang telah mendukung kami dalam mencapai tujuan kami. Kami sangat menghargai semua bantuan dan dukungan yang telah Anda berikan.</p>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out"> </p>
           </div>
 
           {/* Items */}
           <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-5">
 
             {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor1}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div><div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="w-50 h-50" src={Spongsor}  alt="spongsorship" />
-            </div>
+
+            
+            
+
 
           </div>
 
@@ -80,11 +58,11 @@ function Testimonials() {
                   <img className="relative rounded-full" src={TestimonialImage} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “  Kata kata ucapan terima kasih kepada seluruh sponsor dan partnertship “
+                Terima kasih kepada semua sponsor dan partner kami yang telah mendukung kami dalam mencapai tujuan kami. Kami sangat menghargai semua bantuan dan dukungan yang telah Anda berikan. Kami tidak akan bisa mencapai ini tanpa Anda.
                 </blockquote>
-                <cite className="block font-bold text-lg not-italic mb-1">Andix mbacen</cite>
+                <cite className="block font-bold text-lg not-italic mb-1">Panitia Management Expo 2023</cite>
                 <div className="text-gray-600">
-                  <span>CEO & Co-Founder</span> <a className="text-blue-600 hover:underline" href="#0"></a>
+                  <span>Panitia Management Expo 2023</span> <a className="text-blue-600 hover:underline" href="#0"></a>
                 </div>
               </div>
               

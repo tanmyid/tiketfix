@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Modal from '../utils/Modal';
 
-import HeroImage from '../images/roadmap.jpg';
+import HeroImage from '../images/roadmap.webp';
 
 function HeroHome() {
 
@@ -34,15 +34,15 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Management Expo 2023 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">"Sinergikan UMKM Dalam Mahakarya Budaya"</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Management Expo 2023 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">"Sinergikan UMKM Dalam Mahakarya Budaya" </span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">"Kesempatan untuk menjelajahi suasana baru hanya ada di #managementexpo2023 Datang dan temukan inspirasi terbaikmu!"</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://api.whatsapp.com/send?phone=6285171201042&text=HAI%20KAK%20MAU%20PESAN%20TIKET">Buy Ticket</a>
+                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.instagram.com/managementexpo.unisnu/">Management Expo</a>
                 </div>
                 <div>
-                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://api.whatsapp.com/send?phone=62851743200855&text=HAI%20KAK%20MAU%20PESAN%20TIKET">Buy Ticket</a>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://www.tiktok.com/@managementexpo23">Management Expo</a>
                 </div>
               </div>
             </div>
@@ -90,7 +90,7 @@ function HeroHome() {
               <iframe className='video absolute w-full h-full'
                       title='Video'
                       sandbox='allow-same-origin allow-forms allow-popups allow-scripts allow-presentation'
-                      src={`https://youtube.com/embed/Gz2bMo6WQUI?autoplay=0`} allowFullScreen>
+                      src={`https://youtube.com/embed/kDeFktafwTQ?autoplay=0`} allowFullScreen>
               </iframe>
                 {/* <iframe className="absolute w-full h-full" src="https://www.youtube.com/watch?v=QIpWKTHKcqM" title="Video" allowFullScreen></iframe> */}
               </div>

@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Transition from '../utils/Transition';
 
-import FeaturesBg from '../images/LogoExpo.png';
-import FeaturesBg1 from '../images/logomanajemen.png';
+import FeaturesBg from '../images/LogoExpo.webp';
+import FeaturesBg1 from '../images/logomanajemen.webp';
 
 import FeaturesElement from '../images/features-element.png';
 

@@ -1,11 +1,11 @@
 import React from 'react';
-import Easy from '../images/eassy.png';
-import Cerdas from '../images/cerdas.png';
-import VideoGrafi from '../images/vidio.png';
-import Menari from '../images/tari.png';
-import Hiburan from '../images/hiburan.png';
-import Melukis from '../images/lukis.png';
-import Seminar from '../images/seminar.png';
+import Easy from '../images/eassy.webp';
+import Cerdas from '../images/cerdas.webp';
+import VideoGrafi from '../images/vidio.webp';
+import Menari from '../images/tari.webp';
+import Hiburan from '../images/hiburan.webp';
+import Melukis from '../images/lukis.webp';
+import Seminar from '../images/seminar.webp';
 
 
 
@@ -124,7 +124,7 @@ function FeaturesBlocks() {
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:p-5  sm:mt-5 " href="https://bit.ly/PendaftaranVideografiManajemenExpo23"> Kompetisi Videografi</a>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:p-5  sm:mt-5 " href="https://bit.ly/PendaftaranMelukisManajemenExpo23"> Kompetisi Melukis</a>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:p-5  sm:mt-5 " href="https://bit.ly/PendaftaranTariManajemenExpo23"> Kompetisi Tari</a>
-                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:p-5  sm:mt-5 " href="">Seminar</a>
+                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:p-5  sm:mt-5 " href="bit.ly/PendaftaranSeminarManagementExpo23">Seminar</a>
                    </div>
             </div>
   

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import LogoHeaders from '../images/LogoExpo.png';
+import LogoHeaders from '../images/LogoExpo.webp';
 function Header() {
 
   const [top, setTop] = useState(true);
