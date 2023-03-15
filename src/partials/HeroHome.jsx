@@ -93,7 +93,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
-                    href="https://www.instagram.com/managementexpo.unisnu/"
+                    href="https://api.whatsapp.com/send?phone=6285174320855&text=Hai%20kak%20mau%20pesan%20tiket%20management%20expo."
                   >
                     Management Expo
                   </a>
@@ -101,7 +101,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4"
-                    href="https://www.tiktok.com/@managementexpo23"
+                    href="https://api.whatsapp.com/send?phone=6282137682194&text=Hai%20kak%20mau%20pesan%20tiket%20management%20expo."
                   >
                     Management Expo
                   </a>
