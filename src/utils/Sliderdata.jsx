@@ -20,5 +20,4 @@ export const SliderData = [
   {
     image: Slider5,
   },
-  
 ];
