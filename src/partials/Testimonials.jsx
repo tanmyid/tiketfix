@@ -1,6 +1,6 @@
 import React from 'react';
 import Spongsor from '../images/andi.webp'
-import Spongsor1 from '../images/tari.webp'
+import Spongsor1 from '../images/adijaya.webp'
 
 import TestimonialImage from '../images/andi.webp';
 
