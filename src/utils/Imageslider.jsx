@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { FaArrowAltCircleRight, FaArrowAltCircleLeft } from "react-icons/fa";
 import Slider1 from "../images/pamflet.webp";
 import Slider2 from "../images/p1.webp";
-import Slider3 from "../images/roadmap.webp";
-import Slider4 from "../images/3.webp";
+import Slider3 from "../images/buy.webp";
+import Slider4 from "../images/roadmap.webp";
 import Slider5 from "../images/4.webp";
 
 const SliderData = [
@@ -16,6 +16,10 @@ const SliderData = [
   {
     image: Slider3,
   },
+  {
+    image: Slider4,
+  },
+
 
 ];
 
