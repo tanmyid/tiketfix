@@ -1,6 +1,7 @@
 import React from 'react';
 import Spongsor from '../images/andi.webp'
 import Spongsor1 from '../images/adijaya.webp'
+import Spongsor2 from '../images/sendawa.webp'
 
 import TestimonialImage from '../images/andi.webp';
 
@@ -42,11 +43,9 @@ function Testimonials() {
              <img className="w-30 h-30" src={Spongsor1}  alt="Hero"  id="header-logo"/>
             </div>
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-             <img className="w-30 h-30" src={Spongsor1}  alt="Hero"  id="header-logo"/>
+             <img className="w-30 h-30" src={Spongsor2}  alt="Hero"  id="header-logo"/>
             </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-             <img className="w-30 h-30" src={Spongsor1}  alt="Hero"  id="header-logo"/>
-            </div>
+  
 
             
             
