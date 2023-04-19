@@ -3,6 +3,9 @@ import Spongsor from '../images/andi.webp'
 import Spongsor1 from '../images/adijaya.webp'
 import Spongsor2 from '../images/sendawa.webp'
 import Spongsor3 from '../images/dihafa.webp'
+import Spongsor4 from '../images/atmo.webp'
+import Spongsor5 from '../images/bintang.webp'
+import Spongsor6 from '../images/nikalua.webp'
 
 import TestimonialImage from '../images/andi.webp';
 
@@ -32,7 +35,7 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Sponsor & Parnertship</h2>
+            <h2 className="h2 mb-4">Sponsor & Partnertship</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out"> </p>
           </div>
 
@@ -49,6 +52,16 @@ function Testimonials() {
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
              <img className="w-30 h-30" src={Spongsor3}  alt="Hero"  id="header-logo"/>
             </div>
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+             <img className="w-30 h-30" src={Spongsor4}  alt="Hero"  id="header-logo"/>
+            </div>
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+             <img className="w-30 h-30" src={Spongsor5}  alt="Hero"  id="header-logo"/>
+            </div>
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+             <img className="w-30 h-30" src={Spongsor6}  alt="Hero"  id="header-logo"/>
+            </div>
+            
   
 
             
@@ -70,7 +83,7 @@ function Testimonials() {
                   <img className="relative rounded-full" src={TestimonialImage} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                Terima kasih kepada semua sponsor dan partner kami yang telah mendukung kami dalam mencapai tujuan kami. Kami sangat menghargai semua bantuan dan dukungan yang telah Anda berikan. Kami tidak akan bisa mencapai ini tanpa Anda.
+                Terima kasih kepada semua sponsor dan partnert kami, yang telah mendukung dalam mencapai tujuan kami. Kami sangat menghargai semua bantuan dan dukungan yang telah Anda berikan. Kami tidak akan bisa mencapai ini tanpa Anda.
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Panitia Management Expo 2023</cite>
                 <div className="text-gray-600">
